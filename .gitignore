@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/
+tempcoderunner*
+*.swp
+*~
+node_modules/
+.env
+
