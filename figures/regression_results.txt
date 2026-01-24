@@ -4,7 +4,7 @@ Dep. Variable:            US2Y_Change   R-squared:                       0.035
 Model:                            OLS   Adj. R-squared:                  0.026
 Method:                 Least Squares   F-statistic:                     3.787
 Date:                Fri, 23 Jan 2026   Prob (F-statistic):             0.0242
-Time:                        21:05:04   Log-Likelihood:                -747.76
+Time:                        21:12:52   Log-Likelihood:                -747.76
 No. Observations:                 211   AIC:                             1502.
 Df Residuals:                     208   BIC:                             1512.
 Df Model:                           2                                         
